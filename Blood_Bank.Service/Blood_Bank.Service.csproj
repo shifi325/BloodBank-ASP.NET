@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Blood_Bank.Core\Blood_Bank.Core.csproj" />
+    <ProjectReference Include="..\Blood_Bank.Data\Blood_Bank.Data.csproj" />
+  </ItemGroup>
+
+</Project>
